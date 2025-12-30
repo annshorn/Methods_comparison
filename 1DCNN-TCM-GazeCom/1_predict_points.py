@@ -1,10 +1,3 @@
-"""
-Eye Movement Type Classification using CNN-LSTM Ensemble (GPU-enabled)
-
-This script processes raw gaze data and classifies eye movements using
-a pre-trained CNN-LSTM ensemble with majority voting.
-"""
-
 import os
 import logging
 from dataclasses import dataclass
